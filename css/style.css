@@ -25,6 +25,7 @@
 .table {
 	max-width: 98%;
 	border: 1px solid #4bae4f !important;
+	table-layout: fixed;
 }
 
 .table-bordered td {
@@ -33,6 +34,14 @@
 
 td.blank {
 	background-color: #88ce8a;
+}
+
+.clickable, .checked {
+	cursor: pointer;
+}
+
+.checked {
+	background-color: red;
 }
 
 .footer {
