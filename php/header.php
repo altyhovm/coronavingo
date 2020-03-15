@@ -15,7 +15,7 @@
   <body>
   	<nav class="navbar navbar-light bg-light">
   		<a class="navbar-brand" href="#">
-  			<h1><img src="../images/virus.png" height="70" alt="" > CoronaBingo</h1>
+  			<h1><img src="../images/virus.png" height="70" alt="" > Coronavingo</h1>
 		</a>
     	<ul class="nav justify-content-end">
     		<li class="nav-item">
